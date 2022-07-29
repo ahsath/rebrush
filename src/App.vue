@@ -3,5 +3,6 @@
 </template>
 
 <script lang="ts" setup>
-import Foo from './components/Foo.vue';
+import { Foo } from '@ahsath/rebrush'
+
 </script>
