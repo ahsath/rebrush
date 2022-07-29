@@ -19,10 +19,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ahsath/rebrush": "^0.1.1",
+    "@ahsath/rebrush": "^0.1.2",
     "vue": "^3.2.37"
   },
   "devDependencies": {
+    "@types/node": "^18.6.2",
     "@vitejs/plugin-vue": "^3.0.1",
     "typescript": "^4.7.4",
     "vite": "^3.0.3",
